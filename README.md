@@ -42,6 +42,19 @@
 </p>
 ---
 
+## 📊 GitHub Stats
+
+<!-- GitHub Stats Card -->
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=JxFong1017&show_icons=true&theme=radical&hide_border=true)
+
+<!-- Streak Stats -->
+[![GitHub Streak](https://streak-stats.demolab.com/?user=JxFong1017&theme=radical&hide_border=true)](https://git.io/streak-stats)
+
+<!-- Most Used Languages -->
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JxFong1017&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+<!-- Activity Graph -->
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=JxFong1017&theme=github-compact)
 
 ## 📊 GitHub Stats  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JxFong1017&show_icons=true&theme=radical&hide_border=true)  
