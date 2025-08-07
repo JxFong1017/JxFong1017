@@ -1,7 +1,7 @@
 # Aloha, I’m Fong Jia Xin 👋
 **A 2nd year Computer Science undergraduate student at Universiti Malaya**, major in **Software Engineering**. 
 
-🌐 [My Portfolio]((https://bento.me/jiaxin1017)) • ✉️ [Email Me](mailto:jxfong357@gmail.com)  • 💻 [GitHub]((https://github.com/JxFong1017)) • 🔗 [LinkedIn](https://www.linkedin.com/in/jiaxin1017) 
+🌐 [My Portfolio](https://bento.me/jiaxin1017) • ✉️ [Email Me](mailto:jxfong357@gmail.com) • 💻 [GitHub](https://github.com/JxFong1017) • 🔗 [LinkedIn](https://www.linkedin.com/in/jiaxin1017)
 
 ---
 
