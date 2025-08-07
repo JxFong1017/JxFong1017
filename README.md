@@ -56,6 +56,4 @@
 <!-- Activity Graph -->
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=JxFong1017&theme=github-compact)
 
-## 📊 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JxFong1017&show_icons=true&theme=radical&hide_border=true)  
 
